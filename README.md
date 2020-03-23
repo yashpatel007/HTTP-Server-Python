@@ -1,9 +1,4 @@
-# cs457-557-f19-pa1-yashpatel007
-cs457-557-f19-pa1-yashpatel007 created by GitHub Classroom
-
-Name : Yash Patel
-B#   : B00767521
-
+Project : Http Server
 Server Description:</br>
 
         1. Server is a simple http server. This server can serve a file requested with appropriate headers, it also counts
